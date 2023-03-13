@@ -64,8 +64,6 @@ public class Tutorial {
     public void setPublished(boolean isPublished) {
         this.published = isPublished;
     }
-
-
     public Set<Tag> getTags() {
         return tags;
     }
